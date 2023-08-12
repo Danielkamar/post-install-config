@@ -69,3 +69,17 @@ Go to Agent Panel -> Users -> Add New
 <br />
 <br />
 <img src="https://i.imgur.com/beh0c3U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+Go to Admin Panel -> Manage -> SLA
+<br />
+<br />
+<img src="https://i.imgur.com/43gUEIi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+Go to Admin Panel -> Manage -> Help Topics
+<br />
+<br />
+<img src="https://i.imgur.com/zIpAivu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
