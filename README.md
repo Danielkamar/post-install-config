@@ -18,34 +18,54 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+- Configure Departments
+- Configure teams
+- Give everyone permission to create tickets
+- Configure Agents
+- Configure Users(customers)
+- Configure SLA
+- Configure Help topic
 
 <h2>Configuration Steps</h2>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Go to the admin panel -> Agents -> Roles. Then click add new role. Write what role you would like to create and go to the permissions tab to add permissions. 
 <br />
+<br />
+<img src="https://i.imgur.com/WQiy4oY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+Go to Admin Panel -> Agents -> Departments
+<br />
+<br />
+<img src="https://i.imgur.com/TDyspmK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+Go to Admin Panel -> Agents -> Teams
+<br />
+<br />
+<img src="https://i.imgur.com/wziFWqb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+Go to Admin Panel -> Settings -> User Settings. Uncheck Require registration and login to create tickets.
+<br />
+<br />
+<img src="https://i.imgur.com/V4b8m1A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+Go to Admin Panel -> Agents -> Add New
+<br />
+<br />
+<img src="https://i.imgur.com/ksVDaVN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+Go to Agent Panel -> Users -> Add New
+<br />
+<br />
+<img src="https://i.imgur.com/beh0c3U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
